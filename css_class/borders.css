@@ -1,0 +1,11 @@
+.border{
+    /* border: 5px black solid; (todo de golpe)*/
+    border-radius: 5px;
+    border-color: black;
+    border-style:  dashed /*solid*/;
+    border-width: 5px;
+
+    margin: 15px; /* afuera del borde */
+    padding: 15px; /* espacio entre borde y contenido */
+
+}
