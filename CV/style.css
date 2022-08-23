@@ -1,0 +1,36 @@
+#principal{
+    border: solid 6px blue;
+    width: 80%;
+    margin: 0 auto ;
+    padding: 5px;
+}
+fieldset{
+    margin-bottom: 20px;
+    border: solid 4px black
+}
+legend{
+    border: solid 1px black;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: white;
+}
+#mifoto{
+    margin: 5px;
+    border: solid 4px black;
+}
+body{
+    background: url(fondo.jpg);
+}
+h1{
+    color: black;
+}
+h2{
+    color: blue;
+}
+h3{
+    color:green;
+}
+h4{
+    color: purple;
+}

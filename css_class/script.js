@@ -17,4 +17,4 @@ function name(params)
 const myFunction = (txt) => {
     console.log(txt, ("from func"))
 }
-myFunction("hola")
+myFunction("hola")//

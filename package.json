@@ -1,0 +1,19 @@
+{
+  "name": "desarrollo-web",
+  "version": "1.0.0",
+  "description": "AVANCE DE CLASES DE APLICACIONES WEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoloBSK/DesarrolodeAplicacionesWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaoloBSK/DesarrolodeAplicacionesWeb/issues"
+  },
+  "homepage": "https://github.com/PaoloBSK/DesarrolodeAplicacionesWeb#readme"
+}
